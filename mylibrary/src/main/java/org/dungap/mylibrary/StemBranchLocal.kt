@@ -19,7 +19,7 @@ class StemBranchLocal(
 
     fun ddSS(): String {
         val ten = days % 10
-        return NumberToSymbol().intToSS(ten)
+        return "김철호"
     }
 
     fun ddBB(): String {
